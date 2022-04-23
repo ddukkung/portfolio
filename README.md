@@ -21,7 +21,7 @@
 > 개발 기간 : 2021.10.01 ~ 2021.11.11  
 >   
 > 기술 스택 :  
-> Java 8 / MySQL / JSP  
+> Java 8 / MySQL / JSP / JDBC
 >  
 > [프로젝트 상세 설명](https://github.com/ddukkung/BC) 참고
 
@@ -29,7 +29,7 @@
 
 ***
 
-### 2. [XYAB](https://github.com/ddukkung/BC)
+### 2. [XYAB](https://github.com/ddukkung/xyab)
 > 닌텐도 스위치 유저 커뮤니티 웹 사이트 (개인 프로젝트)  
 > 개발 기간 : 2022.03.22 ~ 2022.04.02  
 >   
