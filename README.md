@@ -10,7 +10,9 @@
 
 ## 📌 Contact
 * 이메일 : gjznn3657@gmail.com
-* 블로그 : https://miree.tistory.com
+* 블로그 
+  * [티스토리](https://miree.tistory.com)
+  * [노션](https://www.notion.so/barm0122/b45f55df05314de5bbe7c46c0a8126f2?v=c2d53f8f5af4486cbefd5107669546be)
 * 깃허브 : https://github.com/ddukkung
 
 <br>
